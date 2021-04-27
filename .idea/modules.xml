@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array2/Array2.iml" filepath="$PROJECT_DIR$/Array2/Array2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array3/Array3.iml" filepath="$PROJECT_DIR$/Array3/Array3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chalange10/Chalange10.iml" filepath="$PROJECT_DIR$/Chalange10/Chalange10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes2/Classes2.iml" filepath="$PROJECT_DIR$/Classes2/Classes2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes3/Classes3.iml" filepath="$PROJECT_DIR$/Classes3/Classes3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes4/Classes4.iml" filepath="$PROJECT_DIR$/Classes4/Classes4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes5/Classes5.iml" filepath="$PROJECT_DIR$/Classes5/Classes5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecisionStructures/DecisionStructures.iml" filepath="$PROJECT_DIR$/DecisionStructures/DecisionStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDJ.iml" filepath="$PROJECT_DIR$/SDJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files/files.iml" filepath="$PROJECT_DIR$/files/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files2/files2.iml" filepath="$PROJECT_DIR$/files2/files2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance2/inheritance2.iml" filepath="$PROJECT_DIR$/inheritance2/inheritance2.iml" />
+    </modules>
+  </component>
+</project>
